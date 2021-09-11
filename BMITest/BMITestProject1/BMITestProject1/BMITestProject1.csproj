@@ -14,7 +14,7 @@
   </ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\bmi2021\bmi2021.csproj" />
+		<ProjectReference Include="CSD\bmi2021\bmi2021.csproj" />
 	</ItemGroup>
 
 </Project>
